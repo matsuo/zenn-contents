@@ -72,11 +72,13 @@ fmcsadmin 2.3.0ではmacOS Sequoia 15に対応しています。その一方、m
 
 fmcsadmin 2.3.0の動作環境は、Ubuntu Server 20.04 LTS（AMD64）、Ubuntu 20.04 Desktop（AMD64）、Ubuntu Server 22.04 LTS（AMD64およびARM64）、Ubuntu 22.04 Desktop（AMD64およびARM64）、macOS Ventura 13、macOS Sonoma 14、macOS Sequoia 15、Windows Server 2019、Windows Server 2022、Windows 10 Version 22H2およびWindows 11 Version 22H2以降であり、FileMaker Server 2023以降に対応しています。
 
-なお、FileMaker Server 2023は2025年5月にサポートが終了する予定となっているため、2025年6月以降はFileMaker Server 2024以降の対応となります。
+なお、FileMaker Server 2023は2025年12月にサポートが終了する予定となっているため、2026年以降はFileMaker Server 2024以降の対応となります。
 
 ### （2025年3月7日追記）
 「FileMaker Server 2023は2025年4月にサポートが終了する予定となっているため、2025年5月以降はFileMaker Server 2024以降の対応となります」を「FileMaker Server 2023は2025年5月にサポートが終了する予定となっているため、2025年6月以降はFileMaker Server 2024以降の対応となります」に修正しました。
 
+### （2025年11月22日追記）
+「FileMaker Server 2023は2025年5月にサポートが終了する予定となっているため、2025年6月以降はFileMaker Server 2024以降の対応となります」を「FileMaker Server 2023は2025年12月にサポートが終了する予定となっているため、2026年以降はFileMaker Server 2024以降の対応となります」に修正しました。
 
 ## まとめ
 
