@@ -2,7 +2,7 @@
 title: "PHP 8.4に対応したFMPress Forms 2.0.0を公開しました"
 emoji: "🔌"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["filemaker", "fmpress"]
+topics: ["filemaker", "wordpress", "fmpress"]
 published: true
 published_at: 2025-11-22 19:50
 ---
